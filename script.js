@@ -1,5 +1,5 @@
 " use strict ";
-let gg = 2;
+/*let gg = 2;
 gg=100;
 console.log(gg);
 //alert('Hello');
@@ -16,4 +16,6 @@ console.log(gg);
 //console.log(answer);
 const user = "кристувач";
 const qusion = confirm (`Привіт,${user},ти вперше в насна сайті ? `);
-console.log(qusion);
+console.log(qusion);*/
+const namberOfFikms = [];
+answer[0]=prompt("Сколько фильмов вы посмотрели ? ");
